@@ -1,0 +1,21 @@
+header{
+    background-color: lightskyblue;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+   
+}
+
+#form{
+    position: relative;
+    top: 100px;
+}
+
+footer{
+    background-color: darkblue;
+    text-align: center;
+    font: bold;
+    color: white;
+    margin-top: 400px;
+}
