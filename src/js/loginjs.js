@@ -1,3 +1,6 @@
+import '../css/stylesheet.css';
+import '../../assets/Card1.jpg';
+
 function validation() {
             let usrname = document.login.usrnm.value;
             let passWord = document.login.psw.value;
